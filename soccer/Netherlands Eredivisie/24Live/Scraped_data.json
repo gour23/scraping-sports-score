@@ -1,0 +1,256 @@
+{
+    "Netherlands Eredivisie": [
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Excelsior",
+            "AwayTeam_Name": "Heerenveen",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Feyenoord",
+            "AwayTeam_Name": "Nijmegen",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Vitesse",
+            "AwayTeam_Name": "Utrecht",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "G. A. Eagles",
+            "AwayTeam_Name": "Ajax",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Volendam",
+            "AwayTeam_Name": "Almere City",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "PSV Eindhoven",
+            "AwayTeam_Name": "Excelsior",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Zwolle",
+            "AwayTeam_Name": "Heerenveen",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "Twente",
+            "AwayTeam_Name": "AZ Alkmaar",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "Sittard",
+            "AwayTeam_Name": "Sparta Rotterdam",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "Waalwijk",
+            "AwayTeam_Name": "Heracles Almelo",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/18/2023",
+            "HomeTeam_Name": "AZ Alkmaar",
+            "AwayTeam_Name": "PSV Eindhoven",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": "Ajax",
+            "AwayTeam_Name": "Zwolle",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": "Heracles Almelo",
+            "AwayTeam_Name": "Feyenoord",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": "Sparta Rotterdam",
+            "AwayTeam_Name": "Twente",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": "Almere City",
+            "AwayTeam_Name": "Vitesse",
+            "HomeTeam_Score": "5",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": "Heerenveen",
+            "AwayTeam_Name": "Volendam",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": "Excelsior",
+            "AwayTeam_Name": "G. A. Eagles",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": "Utrecht",
+            "AwayTeam_Name": "Waalwijk",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": "Nijmegen",
+            "AwayTeam_Name": "Sittard",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": "Vitesse",
+            "AwayTeam_Name": "Heracles Almelo",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": "Sittard",
+            "AwayTeam_Name": "Waalwijk",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": "G. A. Eagles",
+            "AwayTeam_Name": "Utrecht",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": "AZ Alkmaar",
+            "AwayTeam_Name": "Almere City",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": "Zwolle",
+            "AwayTeam_Name": "Nijmegen",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/09/2023",
+            "HomeTeam_Name": "Ajax",
+            "AwayTeam_Name": "Sparta Rotterdam",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/09/2023",
+            "HomeTeam_Name": "Twente",
+            "AwayTeam_Name": "Excelsior",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/08/2023",
+            "HomeTeam_Name": "Feyenoord",
+            "AwayTeam_Name": "Volendam",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": "PSV Eindhoven",
+            "AwayTeam_Name": "Heerenveen",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        }
+    ]
+}

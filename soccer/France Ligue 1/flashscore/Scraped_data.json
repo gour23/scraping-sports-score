@@ -1,0 +1,184 @@
+{
+    "France Ligue 1": [
+        {
+            "Date": "01/15/2024",
+            "HomeTeam_Name": "Lens",
+            "AwayTeam_Name": "PSG",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Le Havre",
+            "AwayTeam_Name": "Lyon",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Brest",
+            "AwayTeam_Name": "Montpellier",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Metz",
+            "AwayTeam_Name": "Toulouse",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Nantes",
+            "AwayTeam_Name": "Clermont",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Lille",
+            "AwayTeam_Name": "Lorient",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Rennes",
+            "AwayTeam_Name": "Nice",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "Monaco",
+            "AwayTeam_Name": "Reims",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "Marseille",
+            "AwayTeam_Name": "Strasbourg",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "Brest",
+            "AwayTeam_Name": "Lorient",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "Clermont",
+            "AwayTeam_Name": "Rennes",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "Lyon",
+            "AwayTeam_Name": "Nantes",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "Montpellier",
+            "AwayTeam_Name": "Marseille",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "Nice",
+            "AwayTeam_Name": "Lens",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "PSG",
+            "AwayTeam_Name": "Metz",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "Reims",
+            "AwayTeam_Name": "Le Havre",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "Strasbourg",
+            "AwayTeam_Name": "Lille",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "Toulouse",
+            "AwayTeam_Name": "Monaco",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/18/2023",
+            "HomeTeam_Name": "Lille",
+            "AwayTeam_Name": "PSG",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": "Marseille",
+            "AwayTeam_Name": "Clermont",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "Soccer":["Spain Primera Liga","England Premier League","France Ligue 1","France Ligue 2",
+            "China Super League","Mexico Liga MX","Germany Bundesliga I","Italy Serie A",
+            "Italy Serie B","USA MLS","Netherlands Eredivisie","Brazil Serie A"],
+    "Hockey":["NHL"],
+    "Basketball":["NCAAB","NBA","WNBA"]
+
+}

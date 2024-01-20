@@ -1,0 +1,184 @@
+{
+    "NBA": [
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Brooklyn Nets",
+            "AwayTeam_Name": "Los Angeles Lakers",
+            "HomeTeam_Score": "130",
+            "AwayTeam_Score": "112",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Indiana Pacers",
+            "AwayTeam_Name": "Portland Trail Blazers",
+            "HomeTeam_Score": "115",
+            "AwayTeam_Score": "118",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Atlanta Hawks",
+            "AwayTeam_Name": "Miami Heat",
+            "HomeTeam_Score": "109",
+            "AwayTeam_Score": "108",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Phoenix Suns",
+            "AwayTeam_Name": "New Orleans Pelicans",
+            "HomeTeam_Score": "123",
+            "AwayTeam_Score": "109",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Denver Nuggets",
+            "AwayTeam_Name": "Boston Celtics",
+            "HomeTeam_Score": "102",
+            "AwayTeam_Score": "100",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "San Antonio Spurs",
+            "AwayTeam_Name": "Charlotte Hornets",
+            "HomeTeam_Score": "120",
+            "AwayTeam_Score": "124",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Philadelphia 76ers",
+            "AwayTeam_Name": "Orlando Magic",
+            "HomeTeam_Score": "124",
+            "AwayTeam_Score": "109",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": "Memphis Grizzlies",
+            "AwayTeam_Name": "Minnesota Timberwolves",
+            "HomeTeam_Score": "103",
+            "AwayTeam_Score": "118",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": "Indiana Pacers",
+            "AwayTeam_Name": "Sacramento Kings",
+            "HomeTeam_Score": "126",
+            "AwayTeam_Score": "121",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": "Oklahoma City Thunder",
+            "AwayTeam_Name": "Utah Jazz",
+            "HomeTeam_Score": "134",
+            "AwayTeam_Score": "129",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": "Washington Wizards",
+            "AwayTeam_Name": "New York Knicks",
+            "HomeTeam_Score": "109",
+            "AwayTeam_Score": "113",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": "Chicago Bulls",
+            "AwayTeam_Name": "Toronto Raptors",
+            "HomeTeam_Score": "116",
+            "AwayTeam_Score": "110",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": "Brooklyn Nets",
+            "AwayTeam_Name": "Portland Trail Blazers",
+            "HomeTeam_Score": "103",
+            "AwayTeam_Score": "105",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": "Dallas Mavericks",
+            "AwayTeam_Name": "Los Angeles Lakers",
+            "HomeTeam_Score": "110",
+            "AwayTeam_Score": "127",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": "Charlotte Hornets",
+            "AwayTeam_Name": "New Orleans Pelicans",
+            "HomeTeam_Score": "112",
+            "AwayTeam_Score": "132",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": "Orlando Magic",
+            "AwayTeam_Name": "Atlanta Hawks",
+            "HomeTeam_Score": "104",
+            "AwayTeam_Score": "106",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": "San Antonio Spurs",
+            "AwayTeam_Name": "Boston Celtics",
+            "HomeTeam_Score": "98",
+            "AwayTeam_Score": "117",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": "Milwaukee Bucks",
+            "AwayTeam_Name": "Cleveland Cavaliers",
+            "HomeTeam_Score": "95",
+            "AwayTeam_Score": "135",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": "Houston Rockets",
+            "AwayTeam_Name": "New York Knicks",
+            "HomeTeam_Score": "94",
+            "AwayTeam_Score": "109",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": "Miami Heat",
+            "AwayTeam_Name": "Toronto Raptors",
+            "HomeTeam_Score": "97",
+            "AwayTeam_Score": "121",
+            "Result": 0,
+            "Source": "flashscore.com"
+        }
+    ]
+}

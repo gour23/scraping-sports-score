@@ -1,0 +1,364 @@
+{
+    "Germany Bundesliga I": [
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Monchengladbach",
+            "AwayTeam_Name": "Stuttgart",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Bochum",
+            "AwayTeam_Name": "Werder Bremen",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "Darmstadt",
+            "AwayTeam_Name": "Borussia Dortmund",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "Augsburg",
+            "AwayTeam_Name": "Leverkusen",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "FC Koln",
+            "AwayTeam_Name": "Heidenheim",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "Mainz",
+            "AwayTeam_Name": "Wolfsburg",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "Freiburg",
+            "AwayTeam_Name": "Union Berlin",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "RB Leipzig",
+            "AwayTeam_Name": "Ein. Frankfurt",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "Bayern Munich",
+            "AwayTeam_Name": "Hoffenheim",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "Heidenheim",
+            "AwayTeam_Name": "Freiburg",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "Stuttgart",
+            "AwayTeam_Name": "Augsburg",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "Wolfsburg",
+            "AwayTeam_Name": "Bayern Munich",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "Ein. Frankfurt",
+            "AwayTeam_Name": "Monchengladbach",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": "Leverkusen",
+            "AwayTeam_Name": "Bochum",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/20/2023",
+            "HomeTeam_Name": "Union Berlin",
+            "AwayTeam_Name": "FC Koln",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/20/2023",
+            "HomeTeam_Name": "Hoffenheim",
+            "AwayTeam_Name": "Darmstadt",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "3",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/20/2023",
+            "HomeTeam_Name": "Borussia Dortmund",
+            "AwayTeam_Name": "Mainz",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/19/2023",
+            "HomeTeam_Name": "Werder Bremen",
+            "AwayTeam_Name": "RB Leipzig",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/18/2023",
+            "HomeTeam_Name": "Bayern Munich",
+            "AwayTeam_Name": "Stuttgart",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": "Leverkusen",
+            "AwayTeam_Name": "Ein. Frankfurt",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": "Freiburg",
+            "AwayTeam_Name": "FC Koln",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": "RB Leipzig",
+            "AwayTeam_Name": "Hoffenheim",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": "Darmstadt",
+            "AwayTeam_Name": "Wolfsburg",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": "Augsburg",
+            "AwayTeam_Name": "Borussia Dortmund",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": "Bochum",
+            "AwayTeam_Name": "Union Berlin",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": "Mainz",
+            "AwayTeam_Name": "Heidenheim",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": "Monchengladbach",
+            "AwayTeam_Name": "Werder Bremen",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": "FC Koln",
+            "AwayTeam_Name": "Mainz",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": "Stuttgart",
+            "AwayTeam_Name": "Leverkusen",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/09/2023",
+            "HomeTeam_Name": "Borussia Dortmund",
+            "AwayTeam_Name": "RB Leipzig",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/09/2023",
+            "HomeTeam_Name": "Heidenheim",
+            "AwayTeam_Name": "Darmstadt",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/09/2023",
+            "HomeTeam_Name": "Werder Bremen",
+            "AwayTeam_Name": "Augsburg",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/09/2023",
+            "HomeTeam_Name": "Wolfsburg",
+            "AwayTeam_Name": "Freiburg",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/09/2023",
+            "HomeTeam_Name": "Ein. Frankfurt",
+            "AwayTeam_Name": "Bayern Munich",
+            "HomeTeam_Score": "5",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/09/2023",
+            "HomeTeam_Name": "Union Berlin",
+            "AwayTeam_Name": "Monchengladbach",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "12/09/2023",
+            "HomeTeam_Name": "Hoffenheim",
+            "AwayTeam_Name": "Bochum",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Darmstadt",
+            "AwayTeam_Name": "Ein. Frankfurt",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Heidenheim",
+            "AwayTeam_Name": "Wolfsburg",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "FC Koln",
+            "AwayTeam_Name": "Borussia Dortmund",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Freiburg",
+            "AwayTeam_Name": "Hoffenheim",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "24Live.com"
+        }
+    ]
+}

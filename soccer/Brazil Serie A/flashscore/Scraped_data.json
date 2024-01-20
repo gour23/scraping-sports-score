@@ -1,0 +1,184 @@
+{
+    "Brazil Serie A": [
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": "Bahia",
+            "AwayTeam_Name": "Atletico-MG",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": "Coritiba",
+            "AwayTeam_Name": "Corinthians",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": "Cruzeiro",
+            "AwayTeam_Name": "Palmeiras",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": "Cuiaba",
+            "AwayTeam_Name": "Athletico-PR",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": "Fluminense",
+            "AwayTeam_Name": "Gremio",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": "Internacional",
+            "AwayTeam_Name": "Botafogo RJ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": "Santos",
+            "AwayTeam_Name": "Fortaleza",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": "Sao Paulo",
+            "AwayTeam_Name": "Flamengo RJ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": "Vasco",
+            "AwayTeam_Name": "Bragantino",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": "Goias",
+            "AwayTeam_Name": "America MG",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/04/2023",
+            "HomeTeam_Name": "America MG",
+            "AwayTeam_Name": "Bahia",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/04/2023",
+            "HomeTeam_Name": "Athletico-PR",
+            "AwayTeam_Name": "Santos",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/04/2023",
+            "HomeTeam_Name": "Botafogo RJ",
+            "AwayTeam_Name": "Cruzeiro",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/04/2023",
+            "HomeTeam_Name": "Bragantino",
+            "AwayTeam_Name": "Coritiba",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/04/2023",
+            "HomeTeam_Name": "Fortaleza",
+            "AwayTeam_Name": "Goias",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/04/2023",
+            "HomeTeam_Name": "Gremio",
+            "AwayTeam_Name": "Vasco",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/04/2023",
+            "HomeTeam_Name": "Flamengo RJ",
+            "AwayTeam_Name": "Cuiaba",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/04/2023",
+            "HomeTeam_Name": "Palmeiras",
+            "AwayTeam_Name": "Fluminense",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/03/2023",
+            "HomeTeam_Name": "Atletico-MG",
+            "AwayTeam_Name": "Sao Paulo",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/03/2023",
+            "HomeTeam_Name": "Corinthians",
+            "AwayTeam_Name": "Internacional",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "flashscore.com"
+        }
+    ]
+}

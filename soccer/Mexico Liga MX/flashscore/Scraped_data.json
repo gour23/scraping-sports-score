@@ -1,0 +1,184 @@
+{
+    "Mexico Liga MX": [
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Juarez",
+            "AwayTeam_Name": "Cruz Azul",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Atl. San Luis",
+            "AwayTeam_Name": "U.N.A.M.- Pumas",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Puebla",
+            "AwayTeam_Name": "Necaxa",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": "Club Leon",
+            "AwayTeam_Name": "U.A.N.L.- Tigres",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/15/2024",
+            "HomeTeam_Name": "Necaxa",
+            "AwayTeam_Name": "Atlas",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "U.N.A.M.- Pumas",
+            "AwayTeam_Name": "Juarez",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Club Tijuana",
+            "AwayTeam_Name": "Club America",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Monterrey",
+            "AwayTeam_Name": "Puebla",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Guadalajara Chivas",
+            "AwayTeam_Name": "Santos Laguna",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": "Cruz Azul",
+            "AwayTeam_Name": "Pachuca",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "Mazatlan FC",
+            "AwayTeam_Name": "Atl. San Luis",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": "Queretaro",
+            "AwayTeam_Name": "Toluca",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/18/2023",
+            "HomeTeam_Name": "AET",
+            "AwayTeam_Name": "Club America",
+            "HomeTeam_Score": "U.A.N.L.- Tigres",
+            "AwayTeam_Score": "3",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/15/2023",
+            "HomeTeam_Name": "U.A.N.L.- Tigres",
+            "AwayTeam_Name": "Club America",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/11/2023",
+            "HomeTeam_Name": "U.A.N.L.- Tigres",
+            "AwayTeam_Name": "U.N.A.M.- Pumas",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": "Club America",
+            "AwayTeam_Name": "Atl. San Luis",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/08/2023",
+            "HomeTeam_Name": "U.N.A.M.- Pumas",
+            "AwayTeam_Name": "U.A.N.L.- Tigres",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": "Atl. San Luis",
+            "AwayTeam_Name": "Club America",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "5",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/04/2023",
+            "HomeTeam_Name": "U.A.N.L.- Tigres",
+            "AwayTeam_Name": "Puebla",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "12/04/2023",
+            "HomeTeam_Name": "U.N.A.M.- Pumas",
+            "AwayTeam_Name": "Guadalajara Chivas",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        }
+    ]
+}
