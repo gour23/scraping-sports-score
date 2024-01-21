@@ -1,1 +1,301 @@
-{}
+{
+    "England Premier League": [
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Brentford",
+            "AwayTeam_Name": "Nottm Forest ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Arsenal",
+            "AwayTeam_Name": "Crystal Palace ",
+            "HomeTeam_Score": "5",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Man Utd",
+            "AwayTeam_Name": "Tottenham ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Everton",
+            "AwayTeam_Name": "Aston Villa ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Newcastle",
+            "AwayTeam_Name": "Man City ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Chelsea",
+            "AwayTeam_Name": "Fulham ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Burnley",
+            "AwayTeam_Name": "Luton ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/03/2024",
+            "HomeTeam_Name": " West Ham",
+            "AwayTeam_Name": "Brighton ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/02/2024",
+            "HomeTeam_Name": " Liverpool",
+            "AwayTeam_Name": "Newcastle ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/31/2023",
+            "HomeTeam_Name": " Tottenham",
+            "AwayTeam_Name": "Bournemouth ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/31/2023",
+            "HomeTeam_Name": " Fulham",
+            "AwayTeam_Name": "Arsenal ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/30/2023",
+            "HomeTeam_Name": " Nottm Forest",
+            "AwayTeam_Name": "Man Utd ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/30/2023",
+            "HomeTeam_Name": " Wolverhampton",
+            "AwayTeam_Name": "Everton ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/30/2023",
+            "HomeTeam_Name": " Man City",
+            "AwayTeam_Name": "Sheff Utd ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/30/2023",
+            "HomeTeam_Name": " Crystal Palace",
+            "AwayTeam_Name": "Brentford ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/30/2023",
+            "HomeTeam_Name": " Aston Villa",
+            "AwayTeam_Name": "Burnley ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/30/2023",
+            "HomeTeam_Name": " Luton",
+            "AwayTeam_Name": "Chelsea ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/29/2023",
+            "HomeTeam_Name": " Arsenal",
+            "AwayTeam_Name": "West Ham ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/29/2023",
+            "HomeTeam_Name": " Brighton",
+            "AwayTeam_Name": "Tottenham ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/28/2023",
+            "HomeTeam_Name": " Everton",
+            "AwayTeam_Name": "Man City ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/28/2023",
+            "HomeTeam_Name": " Chelsea",
+            "AwayTeam_Name": "Crystal Palace ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/28/2023",
+            "HomeTeam_Name": " Brentford",
+            "AwayTeam_Name": "Wolverhampton ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/27/2023",
+            "HomeTeam_Name": " Man Utd",
+            "AwayTeam_Name": "Aston Villa ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Burnley",
+            "AwayTeam_Name": "Liverpool ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Sheff Utd",
+            "AwayTeam_Name": "Luton ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": "Brighton",
+            "AwayTeam_Name": "Tottenham",
+            "HomeTeam_Score": 0,
+            "AwayTeam_Score": 0,
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Bournemouth",
+            "AwayTeam_Name": "Fulham ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": "Arsenal",
+            "AwayTeam_Name": "West Ham",
+            "HomeTeam_Score": 0,
+            "AwayTeam_Score": 0,
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Newcastle",
+            "AwayTeam_Name": "Nottm Forest ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/24/2023",
+            "HomeTeam_Name": " Wolverhampton",
+            "AwayTeam_Name": "Chelsea ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Brentford",
+            "AwayTeam_Name": "Nasiba Espolova ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/03/2024",
+            "HomeTeam_Name": " West Ham",
+            "AwayTeam_Name": "El Daklyeh ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/30/2023",
+            "HomeTeam_Name": " Truenos De Talca U22",
+            "AwayTeam_Name": "Chelsea ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        }
+    ]
+}

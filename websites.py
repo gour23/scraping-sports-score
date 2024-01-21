@@ -98,10 +98,10 @@ class Websites:
                             
                         except:
                             data["date_time"] = final_date
-                            data["home_team"] = m.text.split("\n")[4]
-                            data["away_team"] = m.text.split("\n")[3]
-                            data["home_team_score"] = m.text.split("\n")[6]
-                            data["away_team_score"] = m.text.split("\n")[5]
+                            data["home_team"] = m.text.split("\n")[3]
+                            data["away_team"] = m.text.split("\n")[4]
+                            data["home_team_score"] = m.text.split("\n")[5]
+                            data["away_team_score"] = m.text.split("\n")[6]
                     else:
                         try:
                             colon_index = m.text.split("\n").index(':')
@@ -114,10 +114,10 @@ class Websites:
                             
                         except:
                             data["date_time"] = final_date
-                            data["home_team"] = m.text.split("\n")[3]
-                            data["away_team"] = m.text.split("\n")[4]
-                            data["home_team_score"] = m.text.split("\n")[5]
-                            data["away_team_score"] = m.text.split("\n")[6]
+                            data["home_team"] = m.text.split("\n")[4]
+                            data["away_team"] = m.text.split("\n")[3]
+                            data["home_team_score"] = m.text.split("\n")[6]
+                            data["away_team_score"] = m.text.split("\n")[5]
                     if data['home_team_score']>data['away_team_score']:
                         data['result']=0
                     elif data['home_team_score']<data['away_team_score']:

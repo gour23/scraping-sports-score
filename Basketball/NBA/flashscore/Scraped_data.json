@@ -179,6 +179,78 @@
             "AwayTeam_Score": "121",
             "Result": 0,
             "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Memphis Grizzlies",
+            "AwayTeam_Name": "Chicago Bulls",
+            "HomeTeam_Score": "96",
+            "AwayTeam_Score": "125",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Utah Jazz",
+            "AwayTeam_Name": "Houston Rockets",
+            "HomeTeam_Score": "126",
+            "AwayTeam_Score": "127",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Oklahoma City Thunder",
+            "AwayTeam_Name": "Minnesota Timberwolves",
+            "HomeTeam_Score": "102",
+            "AwayTeam_Score": "97",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Cleveland Cavaliers",
+            "AwayTeam_Name": "Atlanta Hawks",
+            "HomeTeam_Score": "116",
+            "AwayTeam_Score": "95",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Toronto Raptors",
+            "AwayTeam_Name": "New York Knicks",
+            "HomeTeam_Score": "100",
+            "AwayTeam_Score": "126",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Philadelphia 76ers",
+            "AwayTeam_Name": "Charlotte Hornets",
+            "HomeTeam_Score": "97",
+            "AwayTeam_Score": "89",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "San Antonio Spurs",
+            "AwayTeam_Name": "Washington Wizards",
+            "HomeTeam_Score": "131",
+            "AwayTeam_Score": "127",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Milwaukee Bucks",
+            "AwayTeam_Name": "Detroit Pistons",
+            "HomeTeam_Score": "141",
+            "AwayTeam_Score": "135",
+            "Result": 0,
+            "Source": "flashscore.com"
         }
     ]
 }

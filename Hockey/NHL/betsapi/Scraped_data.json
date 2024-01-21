@@ -1,1 +1,328 @@
-{}
+{
+    "NHL": [
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " NY Rangers",
+            "AwayTeam_Name": "LA Kings ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " ANA Ducks",
+            "AwayTeam_Name": "SJ Sharks ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "5",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " PIT Penguins",
+            "AwayTeam_Name": "VGS Golden Knights ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " EDM Oilers",
+            "AwayTeam_Name": "CAL Flames ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " WAS Capitals",
+            "AwayTeam_Name": "STL Blues ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " MON Canadiens",
+            "AwayTeam_Name": "BOS Bruins ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "9",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " DAL Stars",
+            "AwayTeam_Name": "NJ Devils ",
+            "HomeTeam_Score": "6",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " TOR Maple Leafs",
+            "AwayTeam_Name": "VAN Canucks ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "6",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " NAS Predators",
+            "AwayTeam_Name": "ARZ Coyotes ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " WIN Jets",
+            "AwayTeam_Name": "OTT Senators ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " COL Avalanche",
+            "AwayTeam_Name": "PHI Flyers ",
+            "HomeTeam_Score": "7",
+            "AwayTeam_Score": "4",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " TB Lightning",
+            "AwayTeam_Name": "BUF Sabres ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " NY Islanders",
+            "AwayTeam_Name": "CHI Blackhawks ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " MIN Wild",
+            "AwayTeam_Name": "FLA Panthers ",
+            "HomeTeam_Score": "6",
+            "AwayTeam_Score": "4",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " NJ Devils",
+            "AwayTeam_Name": "UST Growling Tigers ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " DET Red Wings",
+            "AwayTeam_Name": "CAR Hurricanes ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " NY Rangers",
+            "AwayTeam_Name": "VGS Golden Knights ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "5",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " ARZ Coyotes",
+            "AwayTeam_Name": "VAN Canucks ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " NAS Predators",
+            "AwayTeam_Name": "LA Kings ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " TOR Maple Leafs",
+            "AwayTeam_Name": "CAL Flames ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "3",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " SEA Kraken",
+            "AwayTeam_Name": "EDM Oilers ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " CHI Blackhawks",
+            "AwayTeam_Name": "BUF Sabres ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " STL Blues",
+            "AwayTeam_Name": "WAS Capitals ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "5",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " DAL Stars",
+            "AwayTeam_Name": "PHI Flyers ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "5",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " COL Avalanche",
+            "AwayTeam_Name": "BOS Bruins ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "5",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " MIN Wild",
+            "AwayTeam_Name": "TB Lightning ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "7",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " MON Canadiens",
+            "AwayTeam_Name": "OTT Senators ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "6",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": " DET Red Wings",
+            "AwayTeam_Name": "FLA Panthers ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": " MON Canadiens",
+            "AwayTeam_Name": "NJ Devils ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/17/2024",
+            "HomeTeam_Name": " ARZ Coyotes",
+            "AwayTeam_Name": "CAL Flames ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " NY Rangers",
+            "AwayTeam_Name": "FC Gleisdorf 09 ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " EDM Oilers",
+            "AwayTeam_Name": "Gunther Matta ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " COL Avalanche",
+            "AwayTeam_Name": "Kenya U23 Women ",
+            "HomeTeam_Score": "7",
+            "AwayTeam_Score": "4",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " NJ Devils",
+            "AwayTeam_Name": "CLB Blue Jackets ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " MIN Wild",
+            "AwayTeam_Name": "Jonghoon Lim ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "7",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " He/Tan",
+            "AwayTeam_Name": "OTT Senators ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "6",
+            "Result": 1,
+            "Source": "betsapi.com"
+        }
+    ]
+}

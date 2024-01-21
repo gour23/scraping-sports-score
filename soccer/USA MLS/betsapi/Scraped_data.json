@@ -1,1 +1,292 @@
-{}
+{
+    "USA MLS": [
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": " Columbus Crew",
+            "AwayTeam_Name": "Los Angeles FC ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/03/2023",
+            "HomeTeam_Name": " Los Angeles FC",
+            "AwayTeam_Name": "Houston Dynamo ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/03/2023",
+            "HomeTeam_Name": " FC Cincinnati",
+            "AwayTeam_Name": "Columbus Crew ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/27/2023",
+            "HomeTeam_Name": " Seattle Sounders FC",
+            "AwayTeam_Name": "Los Angeles FC ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/27/2023",
+            "HomeTeam_Name": " Houston Dynamo",
+            "AwayTeam_Name": "Sporting Kansas City ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/26/2023",
+            "HomeTeam_Name": " FC Cincinnati",
+            "AwayTeam_Name": "Philadelphia Union ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/26/2023",
+            "HomeTeam_Name": " Orlando City SC",
+            "AwayTeam_Name": "Columbus Crew ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/13/2023",
+            "HomeTeam_Name": " Columbus Crew",
+            "AwayTeam_Name": "Atlanta United ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/12/2023",
+            "HomeTeam_Name": " Houston Dynamo",
+            "AwayTeam_Name": "Real Salt Lake ",
+            "HomeTeam_Score": "5",
+            "AwayTeam_Score": "4",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/11/2023",
+            "HomeTeam_Name": " Seattle Sounders FC",
+            "AwayTeam_Name": "FC Dallas ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/09/2023",
+            "HomeTeam_Name": " New England Revolution",
+            "AwayTeam_Name": "Philadelphia Union ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/08/2023",
+            "HomeTeam_Name": " Nashville SC",
+            "AwayTeam_Name": "Orlando City SC ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/08/2023",
+            "HomeTeam_Name": " Atlanta United",
+            "AwayTeam_Name": "Columbus Crew ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/07/2023",
+            "HomeTeam_Name": " Real Salt Lake",
+            "AwayTeam_Name": "Houston Dynamo ",
+            "HomeTeam_Score": "6",
+            "AwayTeam_Score": "5",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/06/2023",
+            "HomeTeam_Name": " Vancouver Whitecaps",
+            "AwayTeam_Name": "Los Angeles FC ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/06/2023",
+            "HomeTeam_Name": " Sporting Kansas City",
+            "AwayTeam_Name": "St. Louis City SC ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/05/2023",
+            "HomeTeam_Name": " FC Dallas",
+            "AwayTeam_Name": "Seattle Sounders FC ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/05/2023",
+            "HomeTeam_Name": " Kiryl Barabanov",
+            "AwayTeam_Name": "FC Cincinnati ",
+            "HomeTeam_Score": "8",
+            "AwayTeam_Score": "9",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/02/2023",
+            "HomeTeam_Name": " Columbus Crew",
+            "AwayTeam_Name": "Atlanta United ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/31/2024",
+            "HomeTeam_Name": " Seattle Sounders FC",
+            "AwayTeam_Name": "FC Dallas ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/31/2024",
+            "HomeTeam_Name": " Orlando City SC",
+            "AwayTeam_Name": "Nashville SC ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/30/2024",
+            "HomeTeam_Name": " St. Louis City SC",
+            "AwayTeam_Name": "Sporting Kansas City ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/30/2024",
+            "HomeTeam_Name": " FC Cincinnati",
+            "AwayTeam_Name": "New York Red Bulls ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/30/2024",
+            "HomeTeam_Name": " St Patricks CY FC",
+            "AwayTeam_Name": "Real Salt Lake ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/29/2024",
+            "HomeTeam_Name": " Los Angeles FC",
+            "AwayTeam_Name": "Vancouver Whitecaps ",
+            "HomeTeam_Score": "5",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/29/2024",
+            "HomeTeam_Name": " Philadelphia Union",
+            "AwayTeam_Name": "New England Revolution ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/22/2024",
+            "HomeTeam_Name": " Vancouver Whitecaps",
+            "AwayTeam_Name": "Los Angeles FC ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/22/2024",
+            "HomeTeam_Name": " San Jose Earthquakes",
+            "AwayTeam_Name": "Austin FC ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/22/2024",
+            "HomeTeam_Name": " Colorado Rapids",
+            "AwayTeam_Name": "Real Salt Lake ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/22/2024",
+            "HomeTeam_Name": " LA Galaxy",
+            "AwayTeam_Name": "FC Dallas ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/05/2023",
+            "HomeTeam_Name": " New York Red Bulls",
+            "AwayTeam_Name": "FC Cincinnati ",
+            "HomeTeam_Score": "8",
+            "AwayTeam_Score": "9",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/30/2024",
+            "HomeTeam_Name": " Houston Dynamo",
+            "AwayTeam_Name": "Real Salt Lake ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        }
+    ]
+}

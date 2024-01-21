@@ -188,6 +188,33 @@
             "AwayTeam_Score": "2",
             "Result": 1,
             "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Celta Vigo",
+            "AwayTeam_Name": "Real Sociedad",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Valencia",
+            "AwayTeam_Name": "Ath Bilbao",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Villarreal",
+            "AwayTeam_Name": "Mallorca",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "flashscore.com"
         }
     ]
 }

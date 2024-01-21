@@ -179,6 +179,114 @@
             "AwayTeam_Score": "2",
             "Result": 1,
             "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "New York Rangers",
+            "AwayTeam_Name": "Los Angeles Kings",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Edmonton Oilers",
+            "AwayTeam_Name": "Calgary Flames",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Anaheim Ducks",
+            "AwayTeam_Name": "San Jose Sharks",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "5",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Pittsburgh Penguins",
+            "AwayTeam_Name": "Vegas Golden Knights",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Washington Capitals",
+            "AwayTeam_Name": "St. Louis Blues",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Montreal Canadiens",
+            "AwayTeam_Name": "Boston Bruins",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "9",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Dallas Stars",
+            "AwayTeam_Name": "New Jersey Devils",
+            "HomeTeam_Score": "6",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Toronto Maple Leafs",
+            "AwayTeam_Name": "Vancouver Canucks",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "6",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Nashville Predators",
+            "AwayTeam_Name": "Arizona Coyotes",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Winnipeg Jets",
+            "AwayTeam_Name": "Ottawa Senators",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Colorado Avalanche",
+            "AwayTeam_Name": "Philadelphia Flyers",
+            "HomeTeam_Score": "7",
+            "AwayTeam_Score": "4",
+            "Result": 0,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Tampa Bay Lightning",
+            "AwayTeam_Name": "Buffalo Sabres",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "flashscore.com"
         }
     ]
 }

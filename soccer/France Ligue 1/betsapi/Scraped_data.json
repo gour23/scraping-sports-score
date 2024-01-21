@@ -1,1 +1,274 @@
-{}
+{
+    "France Ligue 1": [
+        {
+            "Date": "01/15/2024",
+            "HomeTeam_Name": " Lens",
+            "AwayTeam_Name": "PSG ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Le Havre",
+            "AwayTeam_Name": "Lyon ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Brest",
+            "AwayTeam_Name": "Montpellier ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Metz",
+            "AwayTeam_Name": "Toulouse ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Nantes",
+            "AwayTeam_Name": "Clermont Foot ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Umea BSKT",
+            "AwayTeam_Name": "Lorient ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Rennes",
+            "AwayTeam_Name": "Nice ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Monaco",
+            "AwayTeam_Name": "Reims ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Deportivo Montecaseros",
+            "AwayTeam_Name": "Strasbourg ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": " Clermont Foot",
+            "AwayTeam_Name": "Rennes ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": " Brest",
+            "AwayTeam_Name": "Lorient ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": " Montpellier",
+            "AwayTeam_Name": "Marseille ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": " Reims",
+            "AwayTeam_Name": "Le Havre ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": " Nice",
+            "AwayTeam_Name": "Lens ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": " Lyon",
+            "AwayTeam_Name": "Nantes ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": " Toulouse",
+            "AwayTeam_Name": "Monaco ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": " Strasbourg",
+            "AwayTeam_Name": "Lille ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/21/2023",
+            "HomeTeam_Name": " PSG",
+            "AwayTeam_Name": "Metz ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/18/2023",
+            "HomeTeam_Name": " Lille",
+            "AwayTeam_Name": "Orlova/Podlinska ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": " Marseille",
+            "AwayTeam_Name": "Clermont Foot ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": " Metz",
+            "AwayTeam_Name": "Montpellier ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": " Lorient",
+            "AwayTeam_Name": "Strasbourg ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": " Toulouse",
+            "AwayTeam_Name": "General Caballero Reserves ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": " Nantes",
+            "AwayTeam_Name": "Brest ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": " Lens",
+            "AwayTeam_Name": "Reims ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": " Le Havre",
+            "AwayTeam_Name": "Nice ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": " Monaco",
+            "AwayTeam_Name": "Lyon ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/11/2023",
+            "HomeTeam_Name": " Lorient",
+            "AwayTeam_Name": "Marseille ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": " Lyon",
+            "AwayTeam_Name": "Toulouse ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": " Metz",
+            "AwayTeam_Name": "Brest ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        }
+    ]
+}

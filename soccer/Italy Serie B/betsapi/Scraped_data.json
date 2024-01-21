@@ -1,1 +1,337 @@
-{}
+{
+    "Italy Serie B": [
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Palermo",
+            "AwayTeam_Name": "Modena ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Cosenza",
+            "AwayTeam_Name": "Venezia ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Lecco",
+            "AwayTeam_Name": "Pisa ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Brescia",
+            "AwayTeam_Name": "Sudtirol ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Ternana",
+            "AwayTeam_Name": "Cittadella ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Spezia",
+            "AwayTeam_Name": "Cremonese ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " AC Feralpisalo",
+            "AwayTeam_Name": "Catanzaro ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " AC Reggiana",
+            "AwayTeam_Name": "Como ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Sampdoria",
+            "AwayTeam_Name": "Parma ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Parma",
+            "AwayTeam_Name": "Chrisnanta/Tan ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Cremonese",
+            "AwayTeam_Name": "Cosenza ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Venezia",
+            "AwayTeam_Name": "Sampdoria ",
+            "HomeTeam_Score": "5",
+            "AwayTeam_Score": "3",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Pisa",
+            "AwayTeam_Name": "AC Reggiana ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Modena",
+            "AwayTeam_Name": "Brescia ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Sudtirol",
+            "AwayTeam_Name": "AC Feralpisalo ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Cittadella",
+            "AwayTeam_Name": "Palermo ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Bari",
+            "AwayTeam_Name": "Ternana ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Como",
+            "AwayTeam_Name": "Spezia ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Catanzaro",
+            "AwayTeam_Name": "Concordia AC ",
+            "HomeTeam_Score": "5",
+            "AwayTeam_Score": "3",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/27/2023",
+            "HomeTeam_Name": " Sampdoria",
+            "AwayTeam_Name": "Bari ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Palermo",
+            "AwayTeam_Name": "Cremonese ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Brescia",
+            "AwayTeam_Name": "Ljungskile ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Ternana",
+            "AwayTeam_Name": "Pisa ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Spezia",
+            "AwayTeam_Name": "Modena ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " AC Feralpisalo",
+            "AwayTeam_Name": "Venezia ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Stuart Dutton",
+            "AwayTeam_Name": "Cittadella ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Lecco",
+            "AwayTeam_Name": "Sudtirol ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Cosenza",
+            "AwayTeam_Name": "Como ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " AC Reggiana",
+            "AwayTeam_Name": "Catanzaro ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/23/2023",
+            "HomeTeam_Name": " Sudtirol",
+            "AwayTeam_Name": "AC Reggiana ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Parma",
+            "AwayTeam_Name": "Ascoli ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Catanzaro",
+            "AwayTeam_Name": "Lecco ",
+            "HomeTeam_Score": "5",
+            "AwayTeam_Score": "3",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Duran/Gonzalez",
+            "AwayTeam_Name": "Cremonese ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Brescia",
+            "AwayTeam_Name": "Parma ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Spezia",
+            "AwayTeam_Name": "Audentese SG/Noortekoondis Women ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " Ascoli",
+            "AwayTeam_Name": "Cittadella ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/26/2023",
+            "HomeTeam_Name": " AC Reggiana",
+            "AwayTeam_Name": "Sadi Ismailov ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        }
+    ]
+}

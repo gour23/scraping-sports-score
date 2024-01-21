@@ -1,1 +1,283 @@
-{}
+{
+    "Mexico Liga MX": [
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " Atlas",
+            "AwayTeam_Name": "Tijuana ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " Club America",
+            "AwayTeam_Name": "Queretaro ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " Toluca",
+            "AwayTeam_Name": "Mazatlan FC ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Juarez FC",
+            "AwayTeam_Name": "Cruz Azul ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Atletico San Luis",
+            "AwayTeam_Name": "Unam Pumas ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Puebla",
+            "AwayTeam_Name": "Necaxa ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": " Leon",
+            "AwayTeam_Name": "Tigres UANL ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/15/2024",
+            "HomeTeam_Name": " Necaxa",
+            "AwayTeam_Name": "Atlas ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Unam Pumas",
+            "AwayTeam_Name": "Juarez FC ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Tijuana",
+            "AwayTeam_Name": "Club America ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Monterrey",
+            "AwayTeam_Name": "Puebla ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Chivas Guadalajara",
+            "AwayTeam_Name": "Santos Laguna ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Cruz Azul",
+            "AwayTeam_Name": "Pachuca ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Mazatlan FC",
+            "AwayTeam_Name": "Atletico San Luis ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Queretaro",
+            "AwayTeam_Name": "Toluca ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/18/2023",
+            "HomeTeam_Name": " Club America",
+            "AwayTeam_Name": "Tigres UANL ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/15/2023",
+            "HomeTeam_Name": " Tigres UANL",
+            "AwayTeam_Name": "Club America ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/11/2023",
+            "HomeTeam_Name": " Tigres UANL",
+            "AwayTeam_Name": "Unam Pumas ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": " Club America",
+            "AwayTeam_Name": "Atletico San Luis ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/08/2023",
+            "HomeTeam_Name": " Unam Pumas",
+            "AwayTeam_Name": "Tigres UANL ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": " Atletico San Luis",
+            "AwayTeam_Name": "Club America ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "5",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/07/2023",
+            "HomeTeam_Name": "Tigres UANL",
+            "AwayTeam_Name": "Unam Pumas",
+            "HomeTeam_Score": 0,
+            "AwayTeam_Score": 0,
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/04/2023",
+            "HomeTeam_Name": " Tigres UANL",
+            "AwayTeam_Name": "Puebla ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/04/2023",
+            "HomeTeam_Name": " Unam Pumas",
+            "AwayTeam_Name": "Chivas Guadalajara ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/03/2023",
+            "HomeTeam_Name": " Monterrey",
+            "AwayTeam_Name": "Atletico San Luis ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/03/2023",
+            "HomeTeam_Name": " Club America",
+            "AwayTeam_Name": "Leon ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/01/2023",
+            "HomeTeam_Name": " Chivas Guadalajara",
+            "AwayTeam_Name": "Unam Pumas ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/01/2023",
+            "HomeTeam_Name": " Puebla",
+            "AwayTeam_Name": "Tigres UANL ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/30/2023",
+            "HomeTeam_Name": " Atletico San Luis",
+            "AwayTeam_Name": "Monterrey ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/30/2023",
+            "HomeTeam_Name": " Leon",
+            "AwayTeam_Name": "Club America ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": " Spc Helfort 15",
+            "AwayTeam_Name": "Tigres UANL ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        }
+    ]
+}

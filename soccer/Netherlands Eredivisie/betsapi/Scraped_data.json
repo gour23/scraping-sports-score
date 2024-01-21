@@ -1,1 +1,301 @@
-{}
+{
+    "Netherlands Eredivisie": [
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " Almere City FC",
+            "AwayTeam_Name": "Fortuna Sittard ",
+            "HomeTeam_Score": 0,
+            "AwayTeam_Score": 0,
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " AZ",
+            "AwayTeam_Name": "PEC Zwolle ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Heracles",
+            "AwayTeam_Name": "FC Volendam ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Mats Rosenkranz",
+            "AwayTeam_Name": "FC Twente ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Excelsior",
+            "AwayTeam_Name": "Heerenveen ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Feyenoord",
+            "AwayTeam_Name": "NEC ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Vitesse",
+            "AwayTeam_Name": "FC Utrecht ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " Go Ahead Eagles",
+            "AwayTeam_Name": "Ajax ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " FC Volendam",
+            "AwayTeam_Name": "Almere City FC ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " PSV",
+            "AwayTeam_Name": "Saint Louis FC ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " PEC Zwolle",
+            "AwayTeam_Name": "Heerenveen ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Hugo Pierre",
+            "AwayTeam_Name": "AZ ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " Fortuna Sittard",
+            "AwayTeam_Name": "Sparta Rotterdam ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " RKC",
+            "AwayTeam_Name": "Heracles ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/18/2023",
+            "HomeTeam_Name": " AZ",
+            "AwayTeam_Name": "PSV ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": " Ajax",
+            "AwayTeam_Name": "PEC Zwolle ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": " Heracles",
+            "AwayTeam_Name": "Feyenoord ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": " Sparta Rotterdam",
+            "AwayTeam_Name": "FC Twente ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": " Almere City FC",
+            "AwayTeam_Name": "Vitesse ",
+            "HomeTeam_Score": "5",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/17/2023",
+            "HomeTeam_Name": " Heerenveen",
+            "AwayTeam_Name": "FC Volendam ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": " Excelsior",
+            "AwayTeam_Name": "Go Ahead Eagles ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": " FC Utrecht",
+            "AwayTeam_Name": "RKC ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/16/2023",
+            "HomeTeam_Name": " NEC",
+            "AwayTeam_Name": "Fortuna Sittard ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": " Vitesse",
+            "AwayTeam_Name": "Heracles ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": " Fortuna Sittard",
+            "AwayTeam_Name": "RKC ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": " Go Ahead Eagles",
+            "AwayTeam_Name": "FC Utrecht ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": " AZ",
+            "AwayTeam_Name": "Almere City FC ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/10/2023",
+            "HomeTeam_Name": " PEC Zwolle",
+            "AwayTeam_Name": "NEC ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/09/2023",
+            "HomeTeam_Name": " Ajax",
+            "AwayTeam_Name": "Sparta Rotterdam ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "12/09/2023",
+            "HomeTeam_Name": " FC Twente",
+            "AwayTeam_Name": "Excelsior ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "2",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " NEC",
+            "AwayTeam_Name": "FC Twente ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/14/2024",
+            "HomeTeam_Name": " PSV",
+            "AwayTeam_Name": "Excelsior ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/13/2024",
+            "HomeTeam_Name": " FC Twente",
+            "AwayTeam_Name": "AZ ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        }
+    ]
+}

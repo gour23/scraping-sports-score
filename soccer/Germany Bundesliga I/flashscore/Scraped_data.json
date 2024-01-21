@@ -215,6 +215,24 @@
             "AwayTeam_Score": "1",
             "Result": 2,
             "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "RB Leipzig",
+            "AwayTeam_Name": "Bayer Leverkusen",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "flashscore.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "Bochum",
+            "AwayTeam_Name": "Stuttgart",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "flashscore.com"
         }
     ]
 }

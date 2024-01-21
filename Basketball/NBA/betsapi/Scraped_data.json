@@ -1,1 +1,301 @@
-{}
+{
+    "NBA": [
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " UTA Jazz",
+            "AwayTeam_Name": "HOU Rockets ",
+            "HomeTeam_Score": "126",
+            "AwayTeam_Score": "127",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " MEM Grizzlies",
+            "AwayTeam_Name": "CHI Bulls ",
+            "HomeTeam_Score": "96",
+            "AwayTeam_Score": "125",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " OKC Thunder",
+            "AwayTeam_Name": "MIN Timberwolves ",
+            "HomeTeam_Score": "102",
+            "AwayTeam_Score": "97",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " TOR Raptors",
+            "AwayTeam_Name": "NY Knicks ",
+            "HomeTeam_Score": "100",
+            "AwayTeam_Score": "126",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " CLE Cavaliers",
+            "AwayTeam_Name": "ATL Hawks ",
+            "HomeTeam_Score": "116",
+            "AwayTeam_Score": "95",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " SA Spurs",
+            "AwayTeam_Name": "WAS Wizards ",
+            "HomeTeam_Score": "131",
+            "AwayTeam_Score": "127",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " PHI 76ers",
+            "AwayTeam_Name": "CHA Hornets ",
+            "HomeTeam_Score": "97",
+            "AwayTeam_Score": "89",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": " MIL Bucks",
+            "AwayTeam_Name": "DET Pistons ",
+            "HomeTeam_Score": "141",
+            "AwayTeam_Score": "135",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " BKN Nets",
+            "AwayTeam_Name": "LA Lakers ",
+            "HomeTeam_Score": "130",
+            "AwayTeam_Score": "112",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " IND Pacers",
+            "AwayTeam_Name": "POR Trail Blazers ",
+            "HomeTeam_Score": "115",
+            "AwayTeam_Score": "118",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": "GS Warriors",
+            "AwayTeam_Name": "DAL Mavericks",
+            "HomeTeam_Score": 0,
+            "AwayTeam_Score": 0,
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " PHX Suns",
+            "AwayTeam_Name": "NO Pelicans ",
+            "HomeTeam_Score": "123",
+            "AwayTeam_Score": "109",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " ATL Hawks",
+            "AwayTeam_Name": "MIA Heat ",
+            "HomeTeam_Score": "109",
+            "AwayTeam_Score": "108",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " DEN Nuggets",
+            "AwayTeam_Name": "BOS Celtics ",
+            "HomeTeam_Score": "102",
+            "AwayTeam_Score": "100",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " PHI 76ers",
+            "AwayTeam_Name": "ORL Magic ",
+            "HomeTeam_Score": "124",
+            "AwayTeam_Score": "109",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " SA Spurs",
+            "AwayTeam_Name": "CHA Hornets ",
+            "HomeTeam_Score": "120",
+            "AwayTeam_Score": "124",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " MEM Grizzlies",
+            "AwayTeam_Name": "MIN Timberwolves ",
+            "HomeTeam_Score": "103",
+            "AwayTeam_Score": "118",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " IND Pacers",
+            "AwayTeam_Name": "SAC Kings ",
+            "HomeTeam_Score": "126",
+            "AwayTeam_Score": "121",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " OKC Thunder",
+            "AwayTeam_Name": "UTA Jazz ",
+            "HomeTeam_Score": "134",
+            "AwayTeam_Score": "129",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " CHI Bulls",
+            "AwayTeam_Name": "TOR Raptors ",
+            "HomeTeam_Score": "116",
+            "AwayTeam_Score": "110",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/19/2024",
+            "HomeTeam_Name": " WAS Wizards",
+            "AwayTeam_Name": "NY Knicks ",
+            "HomeTeam_Score": "109",
+            "AwayTeam_Score": "113",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": " BKN Nets",
+            "AwayTeam_Name": "POR Trail Blazers ",
+            "HomeTeam_Score": "103",
+            "AwayTeam_Score": "105",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": "Jamie McDonnell",
+            "AwayTeam_Name": "UTA Jazz",
+            "HomeTeam_Score": 0,
+            "AwayTeam_Score": 0,
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": " DAL Mavericks",
+            "AwayTeam_Name": "LA Lakers ",
+            "HomeTeam_Score": "110",
+            "AwayTeam_Score": "127",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": " CHA Hornets",
+            "AwayTeam_Name": "NO Pelicans ",
+            "HomeTeam_Score": "112",
+            "AwayTeam_Score": "132",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": " HOU Rockets",
+            "AwayTeam_Name": "NY Knicks ",
+            "HomeTeam_Score": "94",
+            "AwayTeam_Score": "109",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": " ORL Magic",
+            "AwayTeam_Name": "ATL Hawks ",
+            "HomeTeam_Score": "104",
+            "AwayTeam_Score": "106",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": " MIA Heat",
+            "AwayTeam_Name": "TOR Raptors ",
+            "HomeTeam_Score": "97",
+            "AwayTeam_Score": "121",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": " SA Spurs",
+            "AwayTeam_Name": "BOS Celtics ",
+            "HomeTeam_Score": "98",
+            "AwayTeam_Score": "117",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": " MIL Bucks",
+            "AwayTeam_Name": "CLE Cavaliers ",
+            "HomeTeam_Score": "95",
+            "AwayTeam_Score": "135",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/20/2024",
+            "HomeTeam_Name": " Daniell/Venus",
+            "AwayTeam_Name": "POR Trail Blazers ",
+            "HomeTeam_Score": "115",
+            "AwayTeam_Score": "118",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": "GS Warriors",
+            "AwayTeam_Name": "UTA Jazz",
+            "HomeTeam_Score": 0,
+            "AwayTeam_Score": 0,
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "01/18/2024",
+            "HomeTeam_Name": " CHA Hornets",
+            "AwayTeam_Name": "Kr\u00e5ker\u00f8y ",
+            "HomeTeam_Score": "112",
+            "AwayTeam_Score": "132",
+            "Result": 1,
+            "Source": "betsapi.com"
+        }
+    ]
+}

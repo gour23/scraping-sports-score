@@ -1,38 +1,38 @@
 {
     "NBA": [
         {
-            "Date": "01/20/2024",
-            "HomeTeam_Name": "Los Angeles Lakers",
-            "AwayTeam_Name": "Brooklyn Nets",
-            "HomeTeam_Score": "112",
-            "AwayTeam_Score": "130",
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Oklahoma City Thunder",
+            "AwayTeam_Name": "Minnesota Timberwolves",
+            "HomeTeam_Score": "102",
+            "AwayTeam_Score": "97",
             "Result": 1,
             "Source": "24Live.com"
         },
         {
-            "Date": "01/20/2024",
-            "HomeTeam_Name": "Portland Trail Blazers",
-            "AwayTeam_Name": "Indiana Pacers",
-            "HomeTeam_Score": "118",
-            "AwayTeam_Score": "115",
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Utah Jazz",
+            "AwayTeam_Name": "Houston Rockets",
+            "HomeTeam_Score": "126",
+            "AwayTeam_Score": "127",
+            "Result": 1,
+            "Source": "24Live.com"
+        },
+        {
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Memphis Grizzlies",
+            "AwayTeam_Name": "Chicago Bulls",
+            "HomeTeam_Score": "96",
+            "AwayTeam_Score": "125",
             "Result": 0,
             "Source": "24Live.com"
         },
         {
-            "Date": "01/20/2024",
-            "HomeTeam_Name": "New Orleans Pelicans",
-            "AwayTeam_Name": "Phoenix Suns",
-            "HomeTeam_Score": "109",
-            "AwayTeam_Score": "123",
-            "Result": 1,
-            "Source": "24Live.com"
-        },
-        {
-            "Date": "01/20/2024",
-            "HomeTeam_Name": "Miami Heat",
-            "AwayTeam_Name": "Atlanta Hawks",
-            "HomeTeam_Score": "108",
-            "AwayTeam_Score": "109",
+            "Date": "01/21/2024",
+            "HomeTeam_Name": "Toronto Raptors",
+            "AwayTeam_Name": "New York Knicks",
+            "HomeTeam_Score": "100",
+            "AwayTeam_Score": "126",
             "Result": 1,
             "Source": "24Live.com"
         }

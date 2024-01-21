@@ -1,1 +1,319 @@
-{}
+{
+    "China Super League": [
+        {
+            "Date": "11/04/2023",
+            "HomeTeam_Name": " Shandong Taishan",
+            "AwayTeam_Name": "Henan Songshan Longmen ",
+            "HomeTeam_Score": "5",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/04/2023",
+            "HomeTeam_Name": " Cangzhou Mighty Lions",
+            "AwayTeam_Name": "Qingdao Hainiu ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "0",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/04/2023",
+            "HomeTeam_Name": " ShenZhen",
+            "AwayTeam_Name": "Zgornja Gorenjska Women ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/04/2023",
+            "HomeTeam_Name": " Chengdu Rongcheng",
+            "AwayTeam_Name": "Meizhou Hakka ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/04/2023",
+            "HomeTeam_Name": " Nantong Zhiyun",
+            "AwayTeam_Name": "Tianjin Jinmen Tigers ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/04/2023",
+            "HomeTeam_Name": " Changchun Yatai",
+            "AwayTeam_Name": "Wuhan Three Towns ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/04/2023",
+            "HomeTeam_Name": " Dalian Pro",
+            "AwayTeam_Name": "Shanghai Port ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/04/2023",
+            "HomeTeam_Name": " Shanghai Shenhua",
+            "AwayTeam_Name": "Zhejiang ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/29/2024",
+            "HomeTeam_Name": " Natalya Voytsekh",
+            "AwayTeam_Name": "Shanghai Shenhua ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/29/2024",
+            "HomeTeam_Name": " Beijing Guoan",
+            "AwayTeam_Name": "Chengdu Rongcheng ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/29/2024",
+            "HomeTeam_Name": " Meizhou Hakka",
+            "AwayTeam_Name": "Nantong Zhiyun ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/29/2024",
+            "HomeTeam_Name": " Qingdao Hainiu",
+            "AwayTeam_Name": "Dalian Pro ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/29/2024",
+            "HomeTeam_Name": " Henan Songshan Longmen",
+            "AwayTeam_Name": "Changchun Yatai ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/29/2024",
+            "HomeTeam_Name": " Shanghai Port",
+            "AwayTeam_Name": "Shandong Taishan ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/29/2024",
+            "HomeTeam_Name": " Zhejiang",
+            "AwayTeam_Name": "Cangzhou Mighty Lions ",
+            "HomeTeam_Score": "6",
+            "AwayTeam_Score": "1",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/29/2024",
+            "HomeTeam_Name": " Wuhan Three Towns",
+            "AwayTeam_Name": "ShenZhen ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/23/2024",
+            "HomeTeam_Name": " Chengdu Rongcheng",
+            "AwayTeam_Name": "ShenZhen ",
+            "HomeTeam_Score": "4",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/22/2024",
+            "HomeTeam_Name": " Qingdao Hainiu",
+            "AwayTeam_Name": "Tianjin Jinmen Tigers ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "4",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/21/2024",
+            "HomeTeam_Name": " Nantong Zhiyun",
+            "AwayTeam_Name": "Shanghai Shenhua ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/21/2024",
+            "HomeTeam_Name": " Henan Songshan Longmen",
+            "AwayTeam_Name": "Cangzhou Mighty Lions ",
+            "HomeTeam_Score": "6",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/20/2024",
+            "HomeTeam_Name": " Shanghai Port",
+            "AwayTeam_Name": "Beijing Guoan ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/20/2024",
+            "HomeTeam_Name": " Dalian Pro",
+            "AwayTeam_Name": "Muks Naprzod Janow ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/20/2024",
+            "HomeTeam_Name": " Changchun Yatai",
+            "AwayTeam_Name": "Shandong Taishan ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/19/2024",
+            "HomeTeam_Name": " Meizhou Hakka",
+            "AwayTeam_Name": "Zhejiang ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "09/30/2024",
+            "HomeTeam_Name": " Shanghai Shenhua",
+            "AwayTeam_Name": "Qingdao Hainiu ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "09/30/2024",
+            "HomeTeam_Name": " Zhejiang",
+            "AwayTeam_Name": "Henan Songshan Longmen ",
+            "HomeTeam_Score": "3",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "09/30/2024",
+            "HomeTeam_Name": " Beijing Guoan",
+            "AwayTeam_Name": "Dalian Pro ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "0",
+            "Result": 0,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "09/29/2024",
+            "HomeTeam_Name": " Tianjin Jinmen Tigers",
+            "AwayTeam_Name": "Chengdu Rongcheng ",
+            "HomeTeam_Score": "2",
+            "AwayTeam_Score": "2",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "09/29/2024",
+            "HomeTeam_Name": " Nantong Zhiyun",
+            "AwayTeam_Name": "Shanghai Port ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "09/29/2024",
+            "HomeTeam_Name": " ShenZhen",
+            "AwayTeam_Name": "Changchun Yatai ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "1",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/04/2023",
+            "HomeTeam_Name": " ShenZhen",
+            "AwayTeam_Name": "Beijing Guoan ",
+            "HomeTeam_Score": "0",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "11/04/2023",
+            "HomeTeam_Name": " Marcinkevica/Wacanno",
+            "AwayTeam_Name": "Zhejiang ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/29/2024",
+            "HomeTeam_Name": " Tianjin Jinmen Tigers",
+            "AwayTeam_Name": "Shanghai Shenhua ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "1",
+            "Result": 2,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/20/2024",
+            "HomeTeam_Name": " James Marsalek",
+            "AwayTeam_Name": "Beijing Guoan ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "2",
+            "Result": 1,
+            "Source": "betsapi.com"
+        },
+        {
+            "Date": "10/20/2024",
+            "HomeTeam_Name": " Dalian Pro",
+            "AwayTeam_Name": "Wuhan Three Towns ",
+            "HomeTeam_Score": "1",
+            "AwayTeam_Score": "3",
+            "Result": 1,
+            "Source": "betsapi.com"
+        }
+    ]
+}
